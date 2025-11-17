@@ -41,4 +41,4 @@ Bu proje eğitim amaçlı yapılmıştır. Geliştirmek için önerileriniz vars
 4.  Branch'inizi push edin ve bir Pull Request oluşturun.
 
 ---
-**Geliştirici:** [Adınız Soyadınız]
+**Geliştirici:** Ömer Serdar Kayabaşı
