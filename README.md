@@ -28,9 +28,7 @@ Bu uygulama, standart bir metin editöründe bulunan temel özellikleri içerir:
 2.  `NotDefteri.sln` (Solution) dosyasını **Visual Studio** ile açın.
 3.  Projeyi derlemek ve çalıştırmak için `F5` tuşuna basın veya "Başlat" butonuna tıklayın.
 
-## 📸 Ekran Görüntüleri
 
-*(Buraya uygulamanın çalışır haldeki bir ekran görüntüsünü ekleyebilirsin)*
 
 ## 🤝 Katkıda Bulunma
 
